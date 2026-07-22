@@ -40,3 +40,7 @@ The analysis explores employee demographics, job roles, compensation, job satisf
 ##  Objective
 
 To identify employee groups and workplace factors associated with higher attrition and provide data-driven insights that can support employee retention strategies.
+
+##  Dashboard Preview
+
+![HR Attrition Dashboard](HR_Attrition_Dashboard.png.png)
